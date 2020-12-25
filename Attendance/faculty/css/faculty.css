@@ -1,0 +1,17 @@
+#icon{
+	margin:0 auto;
+}
+#icon-label{
+	margin:0 auto;
+	padding: 0;
+	font-family: monospace;
+	font-size: 30px;
+}
+#logout-text{
+	font-family: monospace;
+	font-size: 20px;
+    color: white;
+}
+#div{
+    margin-top:100px;
+}
